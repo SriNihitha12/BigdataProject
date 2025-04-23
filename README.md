@@ -12,6 +12,6 @@ This project is a machine learning-based solution for forecasting traffic volume
 
 We used the `Minnesota_TrafficData_2020-24.csv` dataset containing 5 years of hourly traffic data collected from highway sensors across Minnesota.
 
-📥 **Download the dataset** from this Google Drive location: [Download Traffic Data] https://drive.google.com/file/d/1edNypNS0nUer5LNe63ZzDP7bpaNlG8T6/view?usp=drive_link
+📥 **Download the dataset** from this Google Drive location: [Download Traffic Data] https://drive.google.com/file/d/1edNypNS0nUer5LNe63ZzDP7bpaNlG8T6/view?usp=sharing
 
 ---
