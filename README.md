@@ -1,6 +1,10 @@
 # BigdataProject
 
 ## Team Members
+##### Sri Nihitha Mandadi 
+##### Shiva Pavan Kumar Chava 
+##### Rakesh Kusa 
+##### Bhargava Reddy Erugula
 
 # 🚦 Real-Time Traffic Analysis and Prediction
 
