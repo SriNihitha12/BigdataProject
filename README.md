@@ -1,10 +1,11 @@
-# BigdataProject
 
+## Team Name - Data Seekers
 ## Team Members
-##### Sri Nihitha Mandadi 
-##### Shiva Pavan Kumar Chava 
-##### Rakesh Kusa 
-##### Bhargava Reddy Erugula
+### Sri Nihitha Mandadi 
+### Shiva Pavan Kumar Chava 
+### Rakesh Kusa 
+### Bhargava Reddy Erugula
+
 
 # 🚦 Real-Time Traffic Analysis and Prediction
 
