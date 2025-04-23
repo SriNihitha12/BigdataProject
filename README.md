@@ -90,8 +90,8 @@ This dataset was created by combining multiple annual traffic reports (from 2020
 ---
 
 ## Output Files
-- `rmse_results.csv` → RMSE values for all models
-- `predicted_results.csv` → Comparison of actual vs predicted values
+- rmse_results.csv → RMSE values for all models
+- predicted_results.csv → Comparison of actual vs predicted values
 - PNG plots → Time series and heatmaps of traffic volume
 
 ---
