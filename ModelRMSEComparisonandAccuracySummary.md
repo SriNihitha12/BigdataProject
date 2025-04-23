@@ -1,4 +1,4 @@
-"""
+
 
 | **Model**           | **RMSE** | **Accurate or Not?**                                         |
 |---------------------|---------:|---------------------------------------------------------------|
@@ -8,4 +8,3 @@
 | XGBoost             | 363.70   | Accurate                                                     |
 | CatBoost            | 363.47   | Most Accurate                                                |
 | Prophet             | 80.58    | Highly Accurate (best for trend/seasonal time series)       |
-"""
