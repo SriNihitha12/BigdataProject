@@ -102,5 +102,3 @@ This dataset was created by combining multiple annual traffic reports (from 2020
 - scikit-learn
 - matplotlib
 - seaborn
-
----
