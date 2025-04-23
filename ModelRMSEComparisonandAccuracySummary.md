@@ -1,3 +1,5 @@
+This table summarizes the performance of different machine learning models used for traffic volume prediction.  
+Each model was evaluated using RMSE (Root Mean Squared Error), where a lower value indicates better accuracy.
 
 
 | **Model**           | **RMSE** | **Accurate or Not?**                                         |
