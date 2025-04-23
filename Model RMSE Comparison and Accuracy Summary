@@ -1,1 +1,15 @@
+table_md = """
+## 📊 Model RMSE Comparison and Accuracy Summary
 
+| **Model**           | **RMSE** | **Accurate or Not?**                                         |
+|---------------------|---------:|---------------------------------------------------------------|
+| Linear Regression   | 417.32   | Not the most accurate                                        |
+| Decision Tree       | 363.70   | Accurate                                                     |
+| Random Forest       | 363.70   | Accurate                                                     |
+| XGBoost             | 363.70   | Accurate                                                     |
+| CatBoost            | 363.47   | Most Accurate                                                |
+| Prophet             | 80.58    | Highly Accurate (best for trend/seasonal time series)       |
+"""
+
+with open("model_accuracy_summary.md", "w") as f:
+    f.write(table_md)
