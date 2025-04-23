@@ -1,5 +1,4 @@
-table_md = """
-## 📊 Model RMSE Comparison and Accuracy Summary
+"""
 
 | **Model**           | **RMSE** | **Accurate or Not?**                                         |
 |---------------------|---------:|---------------------------------------------------------------|
@@ -10,6 +9,3 @@ table_md = """
 | CatBoost            | 363.47   | Most Accurate                                                |
 | Prophet             | 80.58    | Highly Accurate (best for trend/seasonal time series)       |
 """
-
-with open("model_accuracy_summary.md", "w") as f:
-    f.write(table_md)
