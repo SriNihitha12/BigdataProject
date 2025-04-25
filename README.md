@@ -2,7 +2,7 @@
 ## Team Name - Data Seekers
 ## Team Members
 ### Sri Nihitha Mandadi 
-### Shiva Pavan Kumar Chava 
+### Siva Pavan Kumar Chava 
 ### Rakesh Kusa 
 ### Bhargava Reddy Erugula
 
